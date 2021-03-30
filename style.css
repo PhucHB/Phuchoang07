@@ -6,6 +6,8 @@
     color: blueviolet;
       display: inline-block;
       text-align: center;
+      text-align: right;
+      
   }
   body{
     background-color: black;
@@ -62,4 +64,8 @@
     overflow-x: hidden;
     padding-top: 20px;
 }
-  
+.giohang {
+  text-shadow: #27dcc4;
+text-align:end;
+display:inline-block;
+}

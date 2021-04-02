@@ -24,8 +24,9 @@
   article {
     background-color: #262626;
     display: inline-block;
-    width: 23%;
-    margin: 80px 20px 0 20px;
+    width: 25%;
+    size: 50px;
+    margin: 50px 20px 0 20px;
     border: 5px solid #424242;
     color: #a1a1a1;
   }
@@ -68,4 +69,39 @@
   text-shadow: #27dcc4;
 text-align:end;
 display:inline-block;
+}
+.ending{
+  background-color: rgb(59, 48, 124);
+  font-size:15px ;
+  color: rgb(10, 10, 10);
+  text-align: center;
+  
+}
+.trangchu{
+  color: rgb(250, 249, 249);
+}
+.NEWS{
+  background-image:url(http://docs.portal.danang.gov.vn/images/images/Nam%202020/Thang%2008/5-8%20DN%202.jpg);
+  
+}
+.NEWS h1{
+  color: #FFFFFF;
+  font-size: 15px;
+}
+
+.NEWS h2{
+  color: rgb(250, 248, 248);
+}
+.ending article {
+  background-color: rgb(59, 48, 124);
+  text-align: center;
+  border: 5px solid rgb(59, 48, 124);
+  
+}
+.ending p{
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.icon{
+  display: inline;
 }
